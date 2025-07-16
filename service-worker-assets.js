@@ -1,6 +1,14 @@
 self.assetsManifest = {
-  "version": "0AjNwdeZ",
+  "version": "hLWM4WYx",
   "assets": [
+    {
+      "hash": "sha256-ANCB0MD3MQU8evZYZr5sjCtGrDBvupGGLKLCZTU9snU=",
+      "url": ".gitattributes"
+    },
+    {
+      "hash": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
+      "url": ".nojekyll"
+    },
     {
       "hash": "sha256-CJvn2NCfUxBow6gSNSp1OCaa6gpCvhaJXhh89bFibU8=",
       "url": "_framework/BlazorAmazingApp.g6qy2ga7va.wasm"
